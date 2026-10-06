@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-brew tap Shiorangerin/apps
+brew tap orangerin/apps
 brew install md2pic
 ```
 
